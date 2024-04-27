@@ -29,7 +29,7 @@ Experienced Data Scientist at Maestro Intellect specializing in the seamless san
 - Evaluated model performance and assessed business impact on key metrics for continuous improvement.
 
 ## Skills
--  Programming: Python ![Python Logo](python_logo.png)
+Programming: Python ![Python Logo](python_logo.png)
 - Frameworks: Django, Flask ![Django Logo](django_logo.png) ![Flask Logo](flask_logo.png)
 - Database: MySQL, MongoDB ![MySQL Logo](mysql_logo.png) ![MongoDB Logo](mongodb_logo.png)
 - Gen AI: LLM, BERT, Langchain, ChatOpenAI, LLAMA, HuggingFace
@@ -39,7 +39,7 @@ Experienced Data Scientist at Maestro Intellect specializing in the seamless san
 - Natural Language Processing (NLP): NLTK, Tokenization, Lemmatization, Stemming
 - AWS: SageMaker ![AWS Logo](aws_logo.png)
 - Visualization: Seaborn, Matplotlib, Power BI
-
+  
 ## Education
 - B.Sc in Mathematics, Solapur University (2020-2023)
 
