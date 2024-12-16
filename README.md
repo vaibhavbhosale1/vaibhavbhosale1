@@ -1,13 +1,13 @@
 # Vaibhav Bhosale
-Junior Data Scientist | Pune, MH
+Data Scientist | Pune, MH
 
 ## Profile
 Experienced Data Scientist at Maestro Intellect specializing in the seamless sanctioning of loans using machine learning. Dynamic speaker and lecturer at IIT Bombay, passionate about leveraging cutting-edge technologies. Ready for the next chapter in data science with a strong commitment to continuous learning.
 
 ## Contact
 - Phone: +91 8180899804
-- Email: vaibhavbhosalesvb4@gmail.com
-- LinkedIn: [Vaibhav Bhosale]([LinkedIn link](https://www.linkedin.com/in/vaibhav-bhosale-5a754726b/))
+- Email: vaibhav.bhosaleds@gmail.com
+- LinkedIn: [[Vaibhav Bhosale]([LinkedIn link]([https://www.linkedin.com/in/vaibhav-bhosale-5a754726b/](https://www.linkedin.com/in/vaibhav-bhosale-52b0a7342/)))](https://www.linkedin.com/in/vaibhav-bhosale-52b0a7342/)
 - Location: Pune, MH
 
 ## Work Experience
@@ -18,10 +18,6 @@ Experienced Data Scientist at Maestro Intellect specializing in the seamless san
 - Conducted in-depth data analysis to identify key factors influencing loan sanctioning decisions, providing valuable insights for business strategy.
 - Successfully deployed models into production, contributing to a significant improvement in the loan sanctioning process.
 - Analyzed e-commerce customer feedback data to uncover trends and patterns influencing satisfaction.
-## Enhancing Healthcare Data with Entity Recognition
-- Utilized SpaCy and pre-trained NER models to extract clinical entities from healthcare text data.
-- Ensured data integrity through preprocessing, validation, and expert collaboration.
-- Documented processes and facilitated transfer of enhanced healthcare data to client.
 
 ## Optimizing Customer Satisfaction: Dashboard Analysis Project
 - Created dashboards to visualize insights and assist the machine learning team in model development.
